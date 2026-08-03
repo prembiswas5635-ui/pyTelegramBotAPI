@@ -6,7 +6,7 @@ from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup
 # --------------------------------------------------
 # ⚠️ বট টোকেন ও এডমিন আইডি
 # --------------------------------------------------
-TOKEN = '8912507133:AAHxFe50cwEvTss51ETY0s7KCxRF_85243'
+TOKEN = '8912507133:AAHxFe50cwEvTss51ETY0s7KCxRF_8t8Th4'
 ADMIN_ID = 7063215243
 
 bot = telebot.TeleBot(TOKEN)
