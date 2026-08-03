@@ -7,7 +7,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 # ⚠️ বট টোকেন ও এডমিন আইডি
 # ----------------------------
 TOKEN = '8912507133:AAHxFe50cwEvTss51ETY0s7KCxRF_8t8Th4'
-ADMIN_ID = 706321543  # আপনার টেলিগ্রাম আইডি
+ADMIN_ID = 7063215243  # আপনার টেলিগ্রাম আইডি
 
 bot = telebot.TeleBot(TOKEN)
 
